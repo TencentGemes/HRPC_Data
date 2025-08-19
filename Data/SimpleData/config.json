@@ -1,0 +1,21 @@
+{
+  "lightmap_count": 2,
+  "lightmap_list": [
+    {
+      "id": "1",
+      "resolution": {
+        "width": 128,
+        "height": 128
+      },
+      "parts": 1
+    },
+    {
+      "id": "17",
+      "resolution": {
+        "width": 256,
+        "height": 256
+      },
+      "parts": 1
+    }
+  ]
+}
